@@ -8,8 +8,8 @@ Before use execute the following:
 step 1-
 sudo apt-get install python-qt4
 
-step 3-
+step 2-
 sudo apt-get install python-rrdtool
 
-Step 2-
+Step 3-
 ./start
