@@ -5,6 +5,7 @@ Before use execute the following:
 
 step 1-
 sudo apt-get install python-qt4
+
 step 3-
 sudo apt-get install python-rrdtool
 
