@@ -1,0 +1,4 @@
+#!/bin/bash
+export DISPLAY=:0.0
+cd josh_py_graph && python grapher.py & 
+cd josh_py_graph1 && python grapher.py & 
