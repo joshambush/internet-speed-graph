@@ -1,3 +1,12 @@
+"""
+	|****************************|
+	|Author:Josh ambush
+	|https://github.com/joshambush/
+	| joshambush5435@gmail.com
+	|by-: joshambush
+	|______________________________|
+	"""
+
 from PyQt4 import QtGui, QtCore, uic
 import os, sys, ping, time, rrd, signal
 
